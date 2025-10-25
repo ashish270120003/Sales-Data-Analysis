@@ -1,8 +1,5 @@
 # Sales-Data-Analysis
-Perfect 👍
-To help you generate a polished `README.md`, here’s a structured template tailored for your **Sales Data Analysis** project. You can copy this into a `README.md` file in your repo:
 
-````markdown
 # 📊 Sales Data Analysis (Project 9)
 
 ## 📌 Overview
